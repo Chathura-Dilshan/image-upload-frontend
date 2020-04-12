@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/hotswap_agent.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+*.iml
+*.name
+*.pem
